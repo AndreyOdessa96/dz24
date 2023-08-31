@@ -1,0 +1,6 @@
+[2023-08-31 22:46:10][DEBUG] LOG: This is a debug message.
+[2023-08-31 22:46:10][INFO] LOG: This is an info message.
+[2023-08-31 22:46:18][DEBUG] LOG: This is a debug message.
+[2023-08-31 22:46:18][INFO] LOG: This is an info message.
+[2023-08-31 22:47:12][DEBUG] LOG: This is a debug message.
+[2023-08-31 22:47:12][INFO] LOG: This is an info message.
